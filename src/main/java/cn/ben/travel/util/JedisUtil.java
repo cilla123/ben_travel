@@ -1,4 +1,4 @@
-package cn.itcast.travel.util;
+package cn.ben.travel.util;
 
 import redis.clients.jedis.Jedis;
 import redis.clients.jedis.JedisPool;

@@ -1,4 +1,4 @@
-package cn.itcast.travel.domain;
+package cn.ben.travel.domain;
 
 import java.io.Serializable;
 import java.util.List;
