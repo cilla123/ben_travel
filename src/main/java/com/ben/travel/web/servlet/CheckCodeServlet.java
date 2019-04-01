@@ -1,4 +1,4 @@
-package cn.ben.travel.web.servlet;
+package com.ben.travel.web.servlet;
 
 import javax.imageio.ImageIO;
 import javax.servlet.ServletException;

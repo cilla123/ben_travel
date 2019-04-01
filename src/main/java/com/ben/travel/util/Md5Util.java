@@ -1,4 +1,4 @@
-package cn.ben.travel.util;
+package com.ben.travel.util;
 
 import java.security.MessageDigest;
 

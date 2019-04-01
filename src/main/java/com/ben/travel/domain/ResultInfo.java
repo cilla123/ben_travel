@@ -1,7 +1,6 @@
-package cn.ben.travel.domain;
+package com.ben.travel.domain;
 
 import java.io.Serializable;
-import java.util.Objects;
 
 /**
  * 用于封装后端返回前端数据对象
